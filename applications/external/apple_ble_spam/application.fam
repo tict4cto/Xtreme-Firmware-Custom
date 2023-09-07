@@ -1,6 +1,6 @@
 App(
     appid="apple_ble_spam",
-    name="Apple BLE Spam",
+    name="Apple BLE Spam Cus",
     apptype=FlipperAppType.EXTERNAL,
     entry_point="apple_ble_spam",
     requires=["gui"],
